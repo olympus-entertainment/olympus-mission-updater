@@ -1,0 +1,7 @@
+# Git ignore
+# https://git-scm.com/docs/gitignore
+
+# Miscellaneous
+*~
+*#
+lib/
