@@ -10,7 +10,7 @@ MP_MISSIONS := EnvGet("LOCALAPPDATA") "\Arma 3\MPMissionsCache\"
 global checked_files := []
 
 if not A_IsCompiled
-  TraySetIcon("img/logo.png")
+  TraySetIcon("img/logo.ico")
 
 m_gui := Gui(, "Olympus Mission File Updater")
 
