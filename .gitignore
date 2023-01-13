@@ -4,4 +4,9 @@
 # Miscellaneous
 *~
 *#
-lib/
+
+# build files
+*.exe
+
+# IDE
+.idea
